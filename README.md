@@ -1,2 +1,2 @@
 # lilolapin.github.io
-A website showcasing my GitHub projects
+My portfolio website : https://lilolapin.github.io/
